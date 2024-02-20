@@ -1,0 +1,12 @@
+Package: RNAseqTool
+Type: Package
+Title: RNAseqTool for RNA-seq data analysis
+Version: 0.1.0
+Author: Chunhui Xu
+Maintainer: The package maintainer <xuch@sibs.ac.cn>
+Description: This is Chunhui's self-build pakcage for RNA-seq data processing.
+    Functions include FPKM calculation, GO/KEGG, Volcanoplot.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
