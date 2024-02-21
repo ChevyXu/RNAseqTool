@@ -24,5 +24,5 @@
 #' \dontrun{hello("Chunhui")}
 #'
 hello <- function(x) {
-  print(paste0("Hello, ", x, "this world!"))
+  print(paste0("Hello, ", x, " welcome to R!"))
 }
