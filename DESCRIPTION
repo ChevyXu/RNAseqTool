@@ -12,3 +12,7 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/ChevyXu/RNAseqTool
 BugReports: https://github.com/ChevyXu/RNAseqTool/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
